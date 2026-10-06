@@ -2,7 +2,7 @@ AI disclosure: This mod is entirely made with AI, since idk how to write code lo
 *NOTE: this mod is my side fun project and WIP, issues and problems are expected
 
 Many if not all mod and stock planes in NO have very basic flight control laws, with simple pitch/roll/yaw command and AoA G limit. 
-This mod is specifically made for Aryx’s F-22E mod to replace the FCS and with some minor CoM and Aerodynamics tweaks. 
+This mod is specifically made for Aryx’s F-22E mod to replace the FCS and with changes to control surfaces airfoil and some other tweaks. 
 Link to Aryx’s F-22E: https://github.com/Aryx3D/Aryx_F22E_StrikeRaptor
 
 This mod replaces the basic FCS with AoA command, G command, roll/yaw blending at high AoA, and carefree handling across the flight regime. This mod is not aimed to be accurate to the irl Raptor Flight controls, but it strictly follows the general concept of most modern FLy-By-Wire fighters based on the interpretation of my understanding on this topic.
@@ -52,7 +52,7 @@ Planned feature(s):
 
 -(Done) Accurate TVC nozzle animations (maybe?)
 
--Airfoil for control surfaces overhaul for staggering stall between horizontal stabs, inner flaperons, and outer flaperons for improved lateral authority as AoA increases similar irl fighters. Stabs stall first, at stall transient both sets of flaperons cover the horizontal stabs for lateral authority. Inner flaperons stall second, so horizontal stabs and outer flaperons cover for inner flaperons at stall transient. And same for outer flaperons.
+-(Done)Airfoil for control surfaces overhaul for staggering stall between horizontal stabs, inner flaperons, and outer flaperons for improved lateral authority as AoA increases similar irl fighters. Stabs stall first, at stall transient both sets of flaperons cover the horizontal stabs for lateral authority. Inner flaperons stall second, so horizontal stabs and outer flaperons cover for inner flaperons at stall transient. And same for outer flaperons.
 
 
 2 versions of this mods, stock performance with slightly tweaked aerodynamics. Buffed, aero tweaks with 10x flare count, 50% more ew capacity, 20% faster ew recharge speed, 2x more 20mm rounds, 8% more thrust, 25% less fuel consumption across all throttle settings, and 11.5% less parasitic drag.
